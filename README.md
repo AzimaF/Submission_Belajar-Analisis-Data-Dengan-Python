@@ -58,8 +58,9 @@ Dashboard yang dibuat mencakup fitur berikut:
 
 ## Kebutuhan dan Instalasi
 Proyek ini membutuhkan pustaka berikut agar dapat berjalan dengan optimal:
-- Matplotlib 3.8.3
-- NumPy 1.26.4
-- Pandas 2.2.0
+- matplotlib==3.10.0
+- matplotlib-inline==0.1.7
+- numpy==2.2.3
+- Pandas 2.2.3
 - Seaborn 0.13.2
-- Streamlit 1.31.1
+- Streamlit 1.42.0
